@@ -6,6 +6,7 @@ package org.example;
 //Количество полок константное — 5 штук.
 //Вернуть книги, распределенные по полкам.
 
+
 public class Main {
     public static void main(String[] args) {
     }
